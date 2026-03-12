@@ -38,6 +38,14 @@ It demonstrates:
 - Add sound effects
 - Create character selection
 
+## Game Preview
+
+![Game Screenshot](Screenshot%202026-03-12%20221105.png)
+
+![Game Screenshot](Screenshot%202026-03-12%20221116.png)
+
+![Game Screenshot](Screenshot%202026-03-12%20221156.png)
+
 ## Author
 
 **Shivam**
